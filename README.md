@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎯 Decision Sandbox - Frontend
 
 ## ✨ Tính năng mới
@@ -160,5 +161,3 @@ Nếu có vấn đề gì, check:
 3. Tất cả files có trong đúng thư mục không
 
 ---
-
-Made with ❤️ for Decision Sandbox
