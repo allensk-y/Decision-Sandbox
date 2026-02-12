@@ -36,7 +36,7 @@ function renderShell({ t, lang, onLangChange }) {
 }
 
 async function runSimulation({ intent, answers, mode }) {
-  const res = await fetch("http://localhost:3000/api/simulate", {
+  const res = await fetch("/api/simulate", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ intent, answers, mode })
